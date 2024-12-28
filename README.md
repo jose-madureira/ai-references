@@ -28,8 +28,6 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 | Hugging Face NLP Course | [Link de Acesso](https://huggingface.co/learn/nlp-course/chapter1/1)|
 | kaggle Intro to Machine Learning | [Link de Acesso](https://www.kaggle.com/learn/intro-to-machine-learning)|
 | kaggle Intermediate Machine Learning| [Link de Acesso](https://www.kaggle.com/learn/intermediate-machine-learning)|
-| kaggle Pandas| [Link de Acesso](https://www.kaggle.com/learn/pandas)|
-| kaggle Data Visualization| [Link de Acesso](https://www.kaggle.com/learn/data-visualization)|
 | kaggle Intro to Deep Learning| [Link de Acesso](https://www.kaggle.com/learn/intro-to-deep-learning)|
 | Stanford CS229 I Machine Learning I Building Large Language Models | [Link de Acesso](https://www.youtube.com/watch?v=9vM4p9NN0Ts&list=WL&index=3) |
 | [Machine Learning for Beginners | [Link de Acess](https://www.youtube.com/playlist?list=PLlrxD0HtieHjNnGcZ1TWzPjKYWgfXSiWG) [Github](https://github.com/microsoft/ML-For-Beginners/?wt.mc_id=1reg_23893_webpage_reactor) |
@@ -39,6 +37,7 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 | Visualização de dados com Python usando Matplotlib | [Github](https://github.com/lisaterumi/tutorial_matplotlib) | 
 | Learn LangChain | [Link de Acesso](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5) [Github](https://github.com/gkamradt/langchain-tutorials) |
 | Machine Learning Notebooks | [Github](https://github.com/dair-ai/ML-Notebooks) | 
+| Gooogle Introduction to Generative AI Learning Path | [Link de Acesso](https://www.cloudskillsboost.google/paths/118) | 
 | Introduction to deep learning based on Google's TensorFlow framework | [Github](https://github.com/nlintz/TensorFlow-Tutorials) |
 
 ### Tópicos Abordados
