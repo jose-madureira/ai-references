@@ -4,7 +4,7 @@ Olá, pessoal! Sejam bem-vindos ao meu repositório! Eu sou José Roberto Madure
 
 Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os fundamentos até tópicos avançados, para ajudar você a desenvolver e aprofundar seus conhecimentos na área.
 
-### Tabela de Livros Recomendados
+### Livros
 
 | Título do Livro             | Autores             | Links             |
 |:----------------------------|:--------------------|:------------------|
@@ -17,9 +17,9 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 | Hands-On Large Language Models | Jay Alammar, Maarten Grootendorst |  [Livro](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) [Github](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) |
 | Build a Large Language Model (From Scratch) | Sebastian Raschka |  [Livro](https://www.manning.com/books/build-a-large-language-model-from-scratch) [Github](https://github.com/rasbt/LLMs-from-scratch) |
 
-### Tabela de Cursos Recomendados
+### Cursos
 
-| Cursos/Tutoriais            | Links            |
+| Cursos           | Links            |
 |:----------------------------|:------------------|
 | Introduction to Machine Learning | [Link de Acesso](https://sebastianraschka.com/blog/2021/ml-course.html) |
 | Introduction to Deep Learning | [Link de Acess](https://sebastianraschka.com/blog/2021/dl-course.html) | 
