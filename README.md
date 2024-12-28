@@ -21,11 +21,17 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 
 | Cursos/Tutoriais            | Links            |
 |:----------------------------|:------------------|
-| User Guide scikit-learn | [Link de Acesso](https://homl.info/skdoc) |
-| Course NLP wiht Spacy | [Link de Acesso](https://course.spacy.io/en/)|
-| Stanford CS229 I Machine Learning I Building Large Language Models | [Link de Acesso](https://www.youtube.com/watch?v=9vM4p9NN0Ts&list=WL&index=3) |
 | Introduction to Machine Learning | [Link de Acesso](https://sebastianraschka.com/blog/2021/ml-course.html) |
 | Introduction to Deep Learning | [Link de Acess](https://sebastianraschka.com/blog/2021/dl-course.html) | 
+| User Guide scikit-learn | [Link de Acesso](https://homl.info/skdoc) |
+| Course NLP wiht Spacy | [Link de Acesso](https://course.spacy.io/en/)|
+| Hugging Face NLP Course | [Link de Acesso](https://huggingface.co/learn/nlp-course/chapter1/1)|
+| kaggle Intro to Machine Learning | [Link de Acesso](https://www.kaggle.com/learn/intro-to-machine-learning)|
+| kaggle Intermediate Machine Learning| [Link de Acesso](https://www.kaggle.com/learn/intermediate-machine-learning)|
+| kaggle Pandas| [Link de Acesso](https://www.kaggle.com/learn/pandas)|
+| kaggle Data Visualization| [Link de Acesso](https://www.kaggle.com/learn/data-visualization)|
+| kaggle Intro to Deep Learning| [Link de Acesso](https://www.kaggle.com/learn/intro-to-deep-learning)|
+| Stanford CS229 I Machine Learning I Building Large Language Models | [Link de Acesso](https://www.youtube.com/watch?v=9vM4p9NN0Ts&list=WL&index=3) |
 | [Machine Learning for Beginners | [Link de Acess](https://www.youtube.com/playlist?list=PLlrxD0HtieHjNnGcZ1TWzPjKYWgfXSiWG) [Github](https://github.com/microsoft/ML-For-Beginners/?wt.mc_id=1reg_23893_webpage_reactor) |
 | Data Science for Beginners | [Github](https://github.com/microsoft/Data-Science-For-Beginners/) | 
 | Introduction to Generative AI and Large Language Models | [Github](https://github.com/microsoft/generative-ai-for-beginners/tree/main/01-introduction-to-genai) | 
