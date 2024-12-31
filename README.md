@@ -8,14 +8,19 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 
 | Título do Livro             | Autores             | Links             |
 |:----------------------------|:--------------------|:------------------|
+| Inteligência Artificial | Stuart Russell, Peter Norvig | [Livro](https://www.grupogen.com.br/livro-inteligencia-artificial-uma-abordagem-moderna-stuart-russell-e-peter-norvig-9788595158870) |
+| Introduction to Artificial Intelligence | Mariusz Flasiński | [Livro](https://link.springer.com/book/10.1007/978-3-030-18545-9) |
 | Python for Probability, Statistics, and Machine Learning | José Unpingco | [Livro](https://link.springer.com/book/10.1007/978-3-030-18545-9) [Github](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E) |
+| Machine Learning: Hands-On for Developers and Technical Professionals | Jason Bell | [Livro](https://www.wiley.com/en-gb/Machine+Learning%3A+Hands-On+for+Developers+and+Technical+Professionals%2C+2nd+Edition-p-9781119642190) [Github](https://github.com/jasebell/mlbook2ndedition) |
 | Python for Data Analysis | Wes McKinney |  [Livro](https://www.oreilly.com/library/view/python-for-data/9781098104023/) [Open Edition](https://wesmckinney.com/book/) [Github](https://github.com/wesm/pydata-book/tree/3rd-edition) |
 | Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow | Aurélien Géron |  [Livro](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) [Github](https://github.com/ageron/handson-ml3) |
+| Hands-On Natural Language Processing with Python | Rajesh Arumugam, Rajalingappaa Shanmugamani| [Livro](https://www.packtpub.com/en-us/product/hands-on-natural-language-processing-with-python-9781789139495) [Github](https://github.com/PacktPublishing/Hands-On-Natural-Language-Processing-with-Pytho) |
 | Deep Learning for Coders with fastai and PyTorch | Jeremy Howard, Sylvain Gugger |  [Livro](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/) [Github](https://github.com/fastai/fastbook) |
+| Foundation Models for Natural Language Processing | Gerhard Paaß, Sven Giesselbach | [Livro](https://link.springer.com/book/10.1007/978-3-031-23190-2) |
 | Python Natural Language Processing Cookbook | Zhenya Antić |  [Livro](https://www.packtpub.com/en-us/product/python-natural-language-processing-cookbook-9781838987312) [Github](https://github.com/PacktPublishing/Python-Natural-Language-Processing-Cookbook) |
+| Natural Language and Search | Jon Handler, Milind Shyani, and Karen Kilroy | [Livro](https://www.oreilly.com/library/view/natural-language-and/9781098156268/) |
 | Generative Deep Learning | David Foster |  [Livro](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) [Github](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition) |
 | Hands-On Large Language Models | Jay Alammar, Maarten Grootendorst |  [Livro](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) [Github](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) |
-| Build a Large Language Model (From Scratch) | Sebastian Raschka |  [Livro](https://www.manning.com/books/build-a-large-language-model-from-scratch) [Github](https://github.com/rasbt/LLMs-from-scratch) |
 
 ### Cursos
 
