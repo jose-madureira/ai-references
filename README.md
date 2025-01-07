@@ -15,7 +15,7 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 | Python for Data Analysis | Wes McKinney |  [Livro](https://www.oreilly.com/library/view/python-for-data/9781098104023/) [Open Edition](https://wesmckinney.com/book/) [Github](https://github.com/wesm/pydata-book/tree/3rd-edition) |
 | Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow | Aurélien Géron |  [Livro](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) [Github](https://github.com/ageron/handson-ml3) |
 | Hands-On Natural Language Processing with Python | Rajesh Arumugam, Rajalingappaa Shanmugamani| [Livro](https://www.packtpub.com/en-us/product/hands-on-natural-language-processing-with-python-9781789139495) [Github](https://github.com/PacktPublishing/Hands-On-Natural-Language-Processing-with-Pytho) |
-| Speech and Language Processing | Dan Jurafsky, James H. Martin| [Livro](https://web.stanford.edu/~jurafsky/slp3/) |
+| Speech and Language Processing | Daniel Jurafsky, James H. Martin| [Livro](https://web.stanford.edu/~jurafsky/slp3/) |
 | Deep Learning for Coders with fastai and PyTorch | Jeremy Howard, Sylvain Gugger |  [Livro](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/) [Github](https://github.com/fastai/fastbook) |
 | Foundation Models for Natural Language Processing | Gerhard Paaß, Sven Giesselbach | [Livro](https://link.springer.com/book/10.1007/978-3-031-23190-2) |
 | Python Natural Language Processing Cookbook | Zhenya Antić |  [Livro](https://www.packtpub.com/en-us/product/python-natural-language-processing-cookbook-9781838987312) [Github](https://github.com/PacktPublishing/Python-Natural-Language-Processing-Cookbook) |
