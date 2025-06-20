@@ -47,7 +47,7 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 | Machine Learning Notebooks | [Github](https://github.com/dair-ai/ML-Notebooks) | 
 | Gooogle Introduction to Generative AI Learning Path | [Link de Acesso](https://www.cloudskillsboost.google/paths/118) | 
 | Introduction to deep learning based on Google's TensorFlow framework | [Github](https://github.com/nlintz/TensorFlow-Tutorials) |
-| DataScienceInteractivePython | [Github](https://github.com/GeostatsGuy/DataScienceInteractivePython) |
+| Data Science Interactive Python | [Github](https://github.com/GeostatsGuy/DataScienceInteractivePython) |
 
 
 ### Tópicos Abordados
