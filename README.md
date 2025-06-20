@@ -19,7 +19,8 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 | Deep Learning for Coders with fastai and PyTorch | Jeremy Howard, Sylvain Gugger |  [Livro](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/) [Github](https://github.com/fastai/fastbook) |
 | Foundation Models for Natural Language Processing | Gerhard Paaß, Sven Giesselbach | [Livro](https://link.springer.com/book/10.1007/978-3-031-23190-2) |
 | Python Natural Language Processing Cookbook | Zhenya Antić |  [Livro](https://www.packtpub.com/en-us/product/python-natural-language-processing-cookbook-9781838987312) [Github](https://github.com/PacktPublishing/Python-Natural-Language-Processing-Cookbook) |
-| Natural Language and Search | Jon Handler, Milind Shyani, and Karen Kilroy | [Livro](https://www.oreilly.com/library/view/natural-language-and/9781098156268/) |
+| Natural Language Processing with Transformers |  Lewis Tunstall, Leandro von Werra, Thomas Wolf | [Livro](https://transformersbook.com/) [Gihub](https://github.com/nlp-with-transformers/notebooks)|
+| Natural Language and Search | Jon Handler, Milind Shyani, Karen Kilroy | [Livro](https://www.oreilly.com/library/view/natural-language-and/9781098156268/) |
 | Generative Deep Learning | David Foster |  [Livro](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) [Github](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition) |
 | Hands-On Large Language Models | Jay Alammar, Maarten Grootendorst |  [Livro](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) [Github](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) |
 
@@ -36,7 +37,7 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 | kaggle Intermediate Machine Learning| [Link de Acesso](https://www.kaggle.com/learn/intermediate-machine-learning)|
 | kaggle Intro to Deep Learning| [Link de Acesso](https://www.kaggle.com/learn/intro-to-deep-learning)|
 | Stanford CS229 I Machine Learning I Building Large Language Models | [Link de Acesso](https://www.youtube.com/watch?v=9vM4p9NN0Ts&list=WL&index=3) |
-| [Machine Learning for Beginners | [Link de Acess](https://www.youtube.com/playlist?list=PLlrxD0HtieHjNnGcZ1TWzPjKYWgfXSiWG) [Github](https://github.com/microsoft/ML-For-Beginners/?wt.mc_id=1reg_23893_webpage_reactor) |
+| Machine Learning for Beginners | [Link de Acess](https://www.youtube.com/playlist?list=PLlrxD0HtieHjNnGcZ1TWzPjKYWgfXSiWG) [Github](https://github.com/microsoft/ML-For-Beginners/?wt.mc_id=1reg_23893_webpage_reactor) |
 | Data Science for Beginners | [Github](https://github.com/microsoft/Data-Science-For-Beginners/) | 
 | Introduction to Generative AI and Large Language Models | [Github](https://github.com/microsoft/generative-ai-for-beginners/tree/main/01-introduction-to-genai) | 
 | Best-of Machine Learning with Python | [Github](https://github.com/ml-tooling/best-of-ml-python) |
