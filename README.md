@@ -28,6 +28,7 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 
 | Cursos           | Links            |
 |:----------------------------|:------------------|
+| CS50's Introduction to Artificial Intelligence with Python | [Link de Acesso](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python/2023-05) |
 | Introduction to Machine Learning | [Link de Acesso](https://sebastianraschka.com/blog/2021/ml-course.html) |
 | Introduction to Deep Learning | [Link de Acess](https://sebastianraschka.com/blog/2021/dl-course.html) | 
 | User Guide scikit-learn | [Link de Acesso](https://homl.info/skdoc) |
@@ -47,7 +48,6 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 | Machine Learning Notebooks | [Github](https://github.com/dair-ai/ML-Notebooks) | 
 | Gooogle Introduction to Generative AI Learning Path | [Link de Acesso](https://www.cloudskillsboost.google/paths/118) | 
 | Introduction to deep learning based on Google's TensorFlow framework | [Github](https://github.com/nlintz/TensorFlow-Tutorials) |
-| Data Science Interactive Python | [Github](https://github.com/GeostatsGuy/DataScienceInteractivePython) |
 
 
 ### Tópicos Abordados
