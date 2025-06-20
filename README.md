@@ -36,6 +36,7 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 | kaggle Intro to Machine Learning | [Link de Acesso](https://www.kaggle.com/learn/intro-to-machine-learning)|
 | kaggle Intermediate Machine Learning| [Link de Acesso](https://www.kaggle.com/learn/intermediate-machine-learning)|
 | kaggle Intro to Deep Learning| [Link de Acesso](https://www.kaggle.com/learn/intro-to-deep-learning)|
+| Transformer Models and BERT Model | [Link de Acesso](https://www.cloudskillsboost.google/course_templates/538) |
 | Stanford CS229 I Machine Learning I Building Large Language Models | [Link de Acesso](https://www.youtube.com/watch?v=9vM4p9NN0Ts&list=WL&index=3) |
 | Machine Learning for Beginners | [Link de Acess](https://www.youtube.com/playlist?list=PLlrxD0HtieHjNnGcZ1TWzPjKYWgfXSiWG) [Github](https://github.com/microsoft/ML-For-Beginners/?wt.mc_id=1reg_23893_webpage_reactor) |
 | Data Science for Beginners | [Github](https://github.com/microsoft/Data-Science-For-Beginners/) | 
@@ -46,6 +47,8 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 | Machine Learning Notebooks | [Github](https://github.com/dair-ai/ML-Notebooks) | 
 | Gooogle Introduction to Generative AI Learning Path | [Link de Acesso](https://www.cloudskillsboost.google/paths/118) | 
 | Introduction to deep learning based on Google's TensorFlow framework | [Github](https://github.com/nlintz/TensorFlow-Tutorials) |
+| DataScienceInteractivePython | [Github](https://github.com/GeostatsGuy/DataScienceInteractivePython) |
+
 
 ### Tópicos Abordados
 Os livros e cursos abordam os seguintes tópicos:
