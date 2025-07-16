@@ -49,6 +49,10 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 | Gooogle Introduction to Generative AI Learning Path | [Link de Acesso](https://www.cloudskillsboost.google/paths/118) | 
 | Introduction to deep learning based on Google's TensorFlow framework | [Github](https://github.com/nlintz/TensorFlow-Tutorials) |
 
+### Bases de Dados Abertas e Projetos de Machine Learning
+| Cursos           | Links            |
+|:----------------------------|:------------------|
+| Governo federal brasileiro | Portal oficial de dados abertos do governo federal brasileiro. Reúne conjuntos de dados de diversos órgãos públicos sobre temas como saúde, educação, meio ambiente, economia, entre outros. | [Link de Acesso](https://dados.gov.br/home) |
 
 ### Tópicos Abordados
 Os livros e cursos abordam os seguintes tópicos:
