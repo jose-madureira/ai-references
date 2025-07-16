@@ -52,7 +52,7 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 ### Bases de Dados Abertas e Projetos de Machine Learning
 | Cursos           | Links            |
 |:----------------------------|:------------------|
-| Governo federal brasileiro | Portal oficial de dados abertos do governo federal brasileiro. Reúne conjuntos de dados de diversos órgãos públicos sobre temas como saúde, educação, meio ambiente, economia, entre outros. | [Link de Acesso](https://dados.gov.br/home) |
+| Governo federal brasileiro | Reúne conjuntos de dados de diversos órgãos públicos brasileiros sobre temas como saúde, educação, meio ambiente, economia, entre outros. | [Link de Acesso](https://dados.gov.br/home) |
 
 ### Tópicos Abordados
 Os livros e cursos abordam os seguintes tópicos:
