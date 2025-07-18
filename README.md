@@ -50,14 +50,7 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 | Introduction to deep learning based on Google's TensorFlow framework | [Github](https://github.com/nlintz/TensorFlow-Tutorials) |
 
 ### Bases de Dados Abertas e Projetos de Machine Learning
-| Bases de Dados           | Descrição          |
-|:----------------------------|:------------------|
-| [Governo federal brasileiro](https://dados.gov.br/home)  | Reúne conjuntos de dados de diversos órgãos públicos brasileiros sobre temas como saúde, educação, meio ambiente, economia, entre outros. |
-| [Inep (Indicadores Educacionais)](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais)  | Conjunto de dados abertos do INEP, com foco em indicadores educacionais como IDEB, ENEM, Censo Escolar, entre outros. |
-| [Kaggle Datasets)](https://www.kaggle.com/datasets)  | Plataforma de ciência de dados que oferece competições, notebooks e uma vasta coleção de conjuntos de dados públicos enviados por usuários e por organizações. |
-| [UCI Machine Learning Repository)](https://archive.ics.uci.edu/)  | Um dos repositórios mais tradicionais para conjuntos de dados usados em aprendizado de máquina e estatística. |
-| [U.S. Government's Open Data)](https://www.data.gov)  | Portal de dados abertos do governo dos Estados Unidos, com informações sobre agricultura, clima, educação, energia, saúde, etc. |
-| [Awesome Public Datasets (GitHub)](https://github.com/awesomedata/awesome-public-datasets)  | Lista colaborativa no GitHub com curadoria de conjuntos de dados públicos de diversas áreas (economia, biologia, esportes, computação, etc.). |
+
 
 ### Tópicos Abordados
 Os livros e cursos abordam os seguintes tópicos:
