@@ -50,6 +50,15 @@ Este repositório reúne uma seleção de Livros e Cursos que abrangem desde os 
 | Introduction to deep learning based on Google's TensorFlow framework | [Github](https://github.com/nlintz/TensorFlow-Tutorials) |
 
 ### Bases de Dados Abertas e Projetos de Machine Learning
+| Bases de Dados                  | Descrição                                                                                                                                            | Links                                                                                   |
+|:-------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|
+| Governo federal brasileiro      | Reúne conjuntos de dados de diversos órgãos públicos brasileiros sobre temas como saúde, educação, meio ambiente, economia, entre outros.             | [Link de Acesso](https://dados.gov.br/)                                            |
+| Inep (Indicadores Educacionais) | Conjunto de dados abertos do INEP, com foco em indicadores educacionais como IDEB, ENEM, Censo Escolar, entre outros.                                 | [Link de Acesso](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais) |
+| Kaggle Datasets                | Plataforma de ciência de dados que oferece competições, notebooks e uma vasta coleção de conjuntos de dados públicos enviados por usuários e organizações.| [Link de Acesso](https://www.kaggle.com/datasets)                                      |
+| UCI Machine Learning Repository | Um dos repositórios mais tradicionais para conjuntos de dados usados em aprendizado de máquina e estatística.                                        | [Link de Acesso](https://archive.ics.uci.edu/)                                         |
+| U.S. Government's Open Data    | Portal de dados abertos do governo dos Estados Unidos, com informações sobre agricultura, clima, educação, energia, saúde, etc.                        | [Link de Acesso](https://www.data.gov)                                                  |
+| Awesome Public Datasets (GitHub)| Lista colaborativa no GitHub com curadoria de conjuntos de dados públicos de diversas áreas (economia, biologia, esportes, computação, etc.).          | [Link de Acesso](https://github.com/awesomedata/awesome-public-datasets)                |
+| Conjunto de Dados no AWS da Amazon | Coleção de dados públicos hospedados pela Amazon Web Services (AWS), abrangendo áreas como clima, genômica, transporte, economia, entre outras.         | [Link de Acesso](https://registry.opendata.aws/)                                       |
 
 
 ### Tópicos Abordados
