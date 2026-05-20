@@ -1,6 +1,6 @@
 # Guia de Referências em Inteligência Artificial
 
-Este repositório apresenta um acervo organizado de referências estruturadas que tangenciam aspectos fundamentais e aplicados no campo da Inteligência Artificial. A curadoria contempla obras e conteúdos de natureza formativa, distribuídos entre livros, cursos, bases de dados e repositórios públicos de acesso livre. O objetivo é subsidiar processos formativos e iniciativas de desenvolvimento técnico, especialmente nos domínios de data science, machine learning e natural language technologies, com ênfase em Natural Language Processing (NLP) e Large Language Models (LLMs).
+Este repositório apresenta um acervo organizado de referências estruturadas que tangenciam aspectos fundamentais e aplicados no campo da Inteligência Artificial. A curadoria contempla obras e conteúdos de natureza formativa, distribuídos entre livros, cursos, bases de dados e repositórios públicos de acesso livre. O objetivo é subsidiar processos formativos e iniciativas de desenvolvimento técnico, especialmente nos domínios de data science, machine learning e natural language technologies, com ênfase em Natural Language Processing (NLP), Large Language Models (LLMs) e AI Agents.
 
 Destinado a estudantes, pesquisadores e profissionais da área técnica, o conjunto de referências propõe caminhos para aprofundamento teórico e exploração prática, com atenção às transformações tecnológicas impulsionadas por dados, modelos e linguagens computacionais emergentes.
 
@@ -27,8 +27,9 @@ A bibliografia reunida oferece suporte à formação conceitual e ao aprimoramen
 | Inteligência Artificial | Stuart Russell, Peter Norvig | [Livro](https://www.grupogen.com.br/livro-inteligencia-artificial-uma-abordagem-moderna-stuart-russell-e-peter-norvig-9788595158870) |
 | Introduction to Artificial Intelligence | Mariusz Flasiński | [Livro](https://link.springer.com/book/10.1007/978-3-319-40022-8) |
 | Python for Probability, Statistics, and Machine Learning | José Unpingco | [Livro](https://link.springer.com/book/10.1007/978-3-030-18545-9) [Github](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E) |
-| Machine Learning: Hands-On for Developers and Technical Professionals | Jason Bell | [Livro](https://www.wiley.com/en-gb/Machine+Learning%3A+Hands-On+for+Developers+and+Technical+Professionals%2C+2nd+Edition-p-9781119642190) [Github](https://github.com/jasebell/mlbook2ndedition) |
 | Python for Data Analysis | Wes McKinney |  [Livro](https://www.oreilly.com/library/view/python-for-data/9781098104023/) [Open Edition](https://wesmckinney.com/book/) [Github](https://github.com/wesm/pydata-book/tree/3rd-edition) |
+|Machine Learning Systems | Vijay Janapa Reddi | [Livro](https://mlsysbook.ai/) [Github](https://github.com/harvard-edge/cs249r_book) |
+| Machine Learning: Hands-On for Developers and Technical Professionals | Jason Bell | [Livro](https://www.wiley.com/en-gb/Machine+Learning%3A+Hands-On+for+Developers+and+Technical+Professionals%2C+2nd+Edition-p-9781119642190) [Github](https://github.com/jasebell/mlbook2ndedition) |
 | Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow | Aurélien Géron |  [Livro](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) [Github](https://github.com/ageron/handson-ml3) |
 | Generative Deep Learning | David Foster |  [Livro](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) [Github](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition) |
 | Hands-On Natural Language Processing with Python | Rajesh Arumugam, Rajalingappaa Shanmugamani| [Livro](https://www.packtpub.com/en-us/product/hands-on-natural-language-processing-with-python-9781789139495) [Github](https://github.com/packtpublishing/hands-on-natural-language-processing-with-python) |
@@ -38,6 +39,9 @@ A bibliografia reunida oferece suporte à formação conceitual e ao aprimoramen
 | Natural Language Processing with Transformers |  Lewis Tunstall, Leandro von Werra, Thomas Wolf | [Livro](https://transformersbook.com/) [Gihub](https://github.com/nlp-with-transformers/notebooks)|
 | Natural Language and Search | Jon Handler, Milind Shyani, Karen Kilroy | [Livro](https://www.oreilly.com/library/view/natural-language-and/9781098156268/) |
 | Hands-On Large Language Models | Jay Alammar, Maarten Grootendorst |  [Livro](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) [Github](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) |
+| AI Agents in Action | Micheal Lanham |  [Livro](https://livebook.manning.com/book/ai-agents-in-action/) |
+| Building Applications with AI Agents | Michael Albada |  [Livro](https://www.oreilly.com/library/view/building-applications-with/9781098176495/) [Github](https://github.com/michaelalbada/BuildingApplicationsWithAIAgents/)|
+| Agentic Architectural Patterns for Building Multi-Agent Systems | Ali Arsanjani, Juan Pablo Bustos |  [Livro](https://www.packtpub.com/en-us/product/agentic-architectural-patterns-for-building-multi-agent-systems-9781806029563) [Github](https://github.com/PacktPublishing/Agentic-Architectural-Patterns-for-Building-Multi-Agent-Systems)|
 
 ### Cursos e Trilhas Formativas
 
@@ -67,3 +71,4 @@ Inclui-se uma relação de cursos on-line, módulos tutoriais e trilhas autoinst
 | Machine Learning Notebooks | [Github](https://github.com/dair-ai/ML-Notebooks) | 
 | Gooogle Introduction to Generative AI Learning Path | [Link de Acesso](https://www.cloudskillsboost.google/paths/118) | 
 | Introduction to deep learning based on Google's TensorFlow framework | [Github](https://github.com/nlintz/TensorFlow-Tutorials) |
+| Hugging Face Agents Course | [Link de Acesso](https://huggingface.co/learn/agents-course/unit0/introduction) |
